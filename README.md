@@ -1,4 +1,4 @@
-Елена Полякова | QA Lead / Automation Engineer
+Елена Полякова | QA Team Lead / Automation Engineer
 
 📍 **Локация:** Санкт-Петербург, Россия (открыта к удаленной работе и гибридному графику)  
 📧 **Контакты:** [elena.andreevna.polyakova@gmail.com](mailto:elena.andreevna.polyakova@gmail.com) | +7 (968) 785-62-27  

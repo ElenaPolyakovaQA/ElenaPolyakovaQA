@@ -102,3 +102,4 @@
 > *"Люблю сложные задачи, где нужно совмещать аналитику, тестирование и менеджмент."*
 Дипломные проекты:
 > Юнит-тесты https://github.com/ElenaPolyakovaQA/Diplom_1
+> Api: https://github.com/ElenaPolyakovaQA/Diplom_2

@@ -111,5 +111,8 @@ QA с 10+ лет опыта в авиации и high-tech. Комбинирую
 7. [Официальные материалы ISTQB](https://www.rstqb.org/ru/istqb-downloads.html) - документация и учебные материалы по ISTQB
 8. [Шпаргалки по Python](https://cheatsheets.zip/python) - сборник шпаргалок по Python
 9. [Официальный сайт ISTQB](https://www.istqb.org/) - международная сертификация тестировщиков
+10. [Основы командной строки] (https://ru.hexlet.io/courses/cli-basics)
+11. [Виды и типы тестирования] (https://testengineer.ru/vidy-tipy-testirovaniya/)
+12. [Обзор протокола HTTP] (https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/Overview)
 
 ```

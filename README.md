@@ -108,4 +108,19 @@ https://leetcode.com/problemset/
 > https://leetcode.com/u/Elena_Polyakova/
 >
 > Мой Клуб совместного изучения Python: https://t.me/+nwyyReiknT4zYTQy
-> Учебные материалы: 
+> Учебные материалы: https://drive.google.com/drive/folders/1DxV3DZrZ_y2DMwL1I2d_8gJawEVNtD14
+> Дополнительные материалы:
+> 1. https://rusau.net/articles#!/tfeeds/854445515741/c/Тренажеры
+Тренажеры для тестировщиков. Статьи и материалы
+Тренажеры для тестировщиков. Статьи и материалы. Отработка практики тестирования
+
+2. https://github.com/GnuriaN/Python-Roadmap Начать стоит с QA базы и дойти до блока Backend Automation: https://roadmap.sh/qaПотом перейти на изучение Backend: https://roadmap.sh/backendТам дойти до Relational Database и изучить
+3. SQL: https://stepik.org/course/63054Дойти до "Learn about APIs"
+4. Frontend: https://roadmap.sh/frontendТам изучить только до блока с JavaScript и немного фреймворки React, Angular (Что это такое, почему появились, что такое компоненты в них)
+5. Playwright: https://stepik.org/course/128626/promoИ в Roadmap QA на Frontend Automation После этого в Backend и до Message Brokers
+6. Docker: https://roadmap.sh/docker
+7. https://www.rstqb.org/ru/istqb-downloads.html
+8. https://cheatsheets.zip/python
+
+9. https://www.istqb.org/
+ 
